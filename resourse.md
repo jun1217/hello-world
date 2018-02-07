@@ -8,7 +8,7 @@
 * 苏黎世联邦理工学院[**Johannes L.Schönberger**](https://demuc.de/)，[此人的paper](http://scholar.google.com/citations?user=MlcMCd0AAAAJ),发表的Paper，structure from motion revisited,维护的项目colmap，sikit—image，scikit-learn:scream::scream::+1:.....[Github](https://github.com/ahojnnes)。在2017cvpr中的讲座[Large-scale 3D Modeling from Crowdsourced Data](https://demuc.de/tutorials/cvpr2017/)
 
 * 法国国立路桥大学[Pierre Moulon](http://imagine.enpc.fr/~moulonp/about.html)软件[OpenMVG](http://imagine.enpc.fr/~moulonp/publis/iccv2013/index.html)
-
+* [慕尼黑大学视觉组](https://vision.in.tum.de/research/image-based_3d_reconstruction/multiviewreconstruction)三维重建资料数据集
 
 ### 数据集
 * VGG [mview-data](http://www.robots.ox.ac.uk/~vgg/data/data-mview.html)包括Dinosaur，Model House，等
