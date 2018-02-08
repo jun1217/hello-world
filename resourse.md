@@ -9,7 +9,7 @@
 
 * 法国国立路桥大学[Pierre Moulon](http://imagine.enpc.fr/~moulonp/about.html)软件[OpenMVG](http://imagine.enpc.fr/~moulonp/publis/iccv2013/index.html)
 * [慕尼黑大学视觉组](https://vision.in.tum.de/research/image-based_3d_reconstruction/multiviewreconstruction)三维重建资料数据集
-
+* [Noah Snavely](http://www.cs.cornell.edu/~snavely/)。Bundler的作者，[Github](https://github.com/snavely/),[BigSFM](http://www.cs.cornell.edu/projects/bigsfm/)
 ### 数据集
 * VGG [mview-data](http://www.robots.ox.ac.uk/~vgg/data/data-mview.html)包括Dinosaur，Model House，等
 * [middlebury明德学院](http://vision.middlebury.edu/mview/data/),包含数据集Temple，和Dino
@@ -19,3 +19,8 @@
 * [Altizure](https://www.altizure.com/)，[台湾花莲地址的三维建模](https://site.altizure.com/project/5a7a7979d7a1f3053a2376db/model)，2018/2/7
 
 * [Agisoft PhotoScan](http://www.agisoft.com/),build, Generate 3D models, point clouds, DSMs from digital photos
+
+
+### 一些网站，待分类
+* [计算机视觉相关网站csdn](http://blog.csdn.net/chen645096127/article/details/72897525)
+* [三维重建相关网站cnblogs](http://www.cnblogs.com/fengbing/p/3703531.html)
